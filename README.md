@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![rjorgenson's github stats](https://github-readme-stats.vercel.app/api?username=rjorgenson)](https://github.com/anuraghazra/github-readme-stats)
+[![rjorgenson's github stats](https://github-readme-stats.vercel.app/api?username=rjorgenson&show_icons=true?theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
