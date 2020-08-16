@@ -4,7 +4,10 @@
 
 I've been fascinated by technology since before I can remember and I've spent my entire life learning about everything I can find that interests me!
 
+- Things I love: Automation, Programming, Cooking
+- Thing I'm good at: None of the above :-)
 - How to reach me: E: rjorgenson@gmail.com ; T: @rjorgenson
+- Slogan: Don't forget to be awesome
 
 <!--
 **rjorgenson/rjorgenson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
